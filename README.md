@@ -1,3 +1,6 @@
+# I AM NOT THE CREATOR OF THIS BUILD
+# This is a copy og Luke Smith's st build(https://github.com/LukeSmithxyz/st), with a little change speficic for my rice.
+___
 # Luke's build of st - the simple (suckless) terminal
 
 The [suckless terminal (st)](https://st.suckless.org/) with some additional features that make it literally the best terminal emulator ever:
